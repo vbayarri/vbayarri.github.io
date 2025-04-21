@@ -3,3 +3,8 @@
 
 export const SITE_TITLE = 'Astro Blog';
 export const SITE_DESCRIPTION = 'Welcome to my website!';
+export const GITHUB_HOME = 'https://github.com/vbayarri';
+export const X_HOME = 'https://x.com/vbayarri';
+
+
+
